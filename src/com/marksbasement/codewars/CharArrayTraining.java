@@ -1,4 +1,4 @@
-package com.marksbasement.training;
+package com.marksbasement.codewars;
 
 import java.util.logging.Logger;
 
