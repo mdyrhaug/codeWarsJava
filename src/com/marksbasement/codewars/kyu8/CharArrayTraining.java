@@ -1,4 +1,4 @@
-package com.marksbasement.codewars;
+package com.marksbasement.codewars.kyu8;
 
 import java.util.logging.Logger;
 
