@@ -1,4 +1,4 @@
-package com.marksbasement.codewars;
+package com.marksbasement.codewars.kyu8;
 
 /**
  * Code Wars URL:  https://www.codewars.com/kata/557cd6882bfa3c8a9f0000c1
