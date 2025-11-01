@@ -1,4 +1,0 @@
-INDEX VERSION 1.134+\\roslin\public-galactica\Mark\My Workspaces\codeWars\.metadata\.plugins\org.eclipse.jdt.core
-1865797976.index
-3261068074.index
-2700429542.index
